@@ -18,7 +18,7 @@ shinyUI(pageWithSidebar(
                 actionButton("goButton", "Go!"),
                 br(),
                 p(strong(em("Documentation:",a("Body Mass Index Classification in Adults",href="READMe.html")))),
-                p(strong(em("Github repository:",a("Developing Data Products - Peer Assessment Project; Shiny App",href="https://github.com/CrazyFarang/DevelopingDataProducts"))))
+                p(strong(em("Github repository:",a("Developing Data Products - Peer Assessment Project; Shiny App",href="https://github.com/hsssgddtc/DevDP_Project"))))
         ),
         mainPanel(
                 tabsetPanel(
